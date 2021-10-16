@@ -1,2 +1,2 @@
 # Penetration_testing
-use only for educational purpose
+use for educational purpose only
